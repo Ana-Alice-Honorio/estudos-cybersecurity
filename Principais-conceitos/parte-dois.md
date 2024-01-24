@@ -20,3 +20,19 @@
 ### Autenticação Multifator
 
 - Pode ser impressão digital, sms, token, chamada telefônica, chaves de segurança física. Mesmo se um invasor tiver a senha, há uma segunda autenticação por segurança
+
+### SSPR
+
+- Redefinição de senha no autoatendimento do Azure AD
+
+### Acesso condicional
+
+- Definir funções específicas como aceitar/negar acesso. Baseado em fatores de risco
+
+### RBAC
+
+- Modelo de controle de acesso com permissões granulares baseados na função do usuário
+
+### Governança de identidade
+
+- Conjunto de passos, práticas, tecnologia para a segurança. Conformidade regulatória. Políticas e regras do ciclo de vida das identidades
