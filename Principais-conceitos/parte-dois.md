@@ -36,3 +36,17 @@
 ### Governança de identidade
 
 - Conjunto de passos, práticas, tecnologia para a segurança. Conformidade regulatória. Políticas e regras do ciclo de vida das identidades
+
+### Revisão de acesso
+
+- Equipes, grupos ou aplicativos. Escopo (quais users). Configurações, especificações, direitos. Recorrência
+
+### PIM
+
+- Privileged Identity Management. gerenciar, monitorar e controlar os acessos de recursos. Reduzir exposição a ameaças
+
+### Identity Protection
+
+- Automatizar detecção e correção de riscos baseados em identidades
+- Investigar dados no portal
+- Exportar dados para análise
