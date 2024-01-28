@@ -44,3 +44,28 @@
 ### DLP
 
 - Prevenção de perda de dados
+
+### Gerenciamento de registros
+
+- Organização, gerenciamento de dados. Garantir confidencialidade, conformidade com os regulamentos
+- Garantir uso e descarte com segurança
+- Demonstração de padronização com normas
+
+### Soluções contra risco interno no Microsoft Purview
+
+- Gerenciamento de riscos internos -> análise, investtigação de atividades
+- Implementação de barreiras de informação -> block de mensagens estranhas. Comunicação segura em locais como Teams e Sharepoint
+- Conformidade das comunicações -> monitoramento de atividades relacionadas a dados
+
+### Descoberta eletrônica do Microsoft Purview
+
+- Processo para identificar, coletar e preservar informações
+- Ajuda cumprir demandas eficientes
+- Recurso de pesquisas avançadas
+
+### Auditoria no Microsoft Purview
+
+- Ajuda em investigações forenses
+- Recursos abrangentes
+- Standard -> Auditoria 90 dias, acesso ao GUI e API
+- Premium -> auditoria avançada, acesso a largura de banda de API
