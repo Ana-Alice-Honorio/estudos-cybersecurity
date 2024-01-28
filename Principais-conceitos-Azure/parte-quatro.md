@@ -69,3 +69,20 @@
 - Recursos abrangentes
 - Standard -> Auditoria 90 dias, acesso ao GUI e API
 - Premium -> auditoria avançada, acesso a largura de banda de API
+
+### Política do Azure
+
+- Serviço que permite ao user aplicar políticas de privacidade
+
+### BluePrint
+
+- Conjunto repetitivo de artefatos
+- Configurações de rede
+- Podem ser reutilizados
+- O Azure automatiza a implementação para ser padronizada e consistente
+- Alertas e recomedações de correção
+
+### Portal de confiança do Azure Purview
+
+- Serviço unificado de governança
+- Ajuda as organizações gerenciar e controlar dados locais, multinuvens e SaaS
