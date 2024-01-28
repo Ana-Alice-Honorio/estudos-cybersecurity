@@ -17,3 +17,17 @@
 - Web Application Firewall
 - Protege de ataques em tempo real
 - Integrado com serviços como o Microsoft Defender For Cloud e o Azure Monitor
+
+### Redes Virtuais
+
+- Dividir uma rede em segmentos menores
+
+### Azure Bastion e Acesso just-in-time
+
+- Acesso de forma segura a máquinas virtuais. Usando protocolos ssh/http.
+- Podemos trabalhar comc haves/senhas
+
+### Microsoft Defender for Cloud
+
+- Gerenciar a postura de defesa contra ameaças. Integrado ao Microdoft Defender, protege as cargas de trabalho executadas.
+- Abrange os principais pilares de segurança na nuvem
