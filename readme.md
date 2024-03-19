@@ -5,4 +5,6 @@
 
 ![cybersecurity](https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif)
 
-## Iniciando com o curso ministrado pela [Womcy](https://womcytrainingcenter.org/)
+- Iniciando com o curso ministrado pela [Womcy](https://womcytrainingcenter.org/)
+- Az-900 pela [Microsoft](https://www.microsoft.com/pt-br)
+- Introdução a Cybersegurança com a [Cisco](https://skillsforall.com/)
