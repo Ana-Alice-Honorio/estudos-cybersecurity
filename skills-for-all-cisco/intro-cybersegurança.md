@@ -78,6 +78,8 @@ Um ataque de negação de serviço distribuída (DDoS) é semelhante a um  ataqu
 - Os computadores zumbis examinam e infectam constantemente mais hosts, criando mais zumbis.
 - Quando está pronto, o hacker instrui os sistemas controlador para fazer com que o botnet de zumbis execute um ataque de negação de serviço distribuído (DDoS).
   
+## Vulnerabilidades de sistema
+
 - Buffers -> Os buffers são áreas de memórias alocadas a um aplicativo. Uma vulnerabilidade ocorre quando os dados são gravados além dos limites de um buffer. Ao alterar os dados além dos limites de um buffer, o aplicativo pode acessar a memória alocada para outros processos. Isso pode levar a uma falha do sistema ou  comprometimento de dados ou fornecer escalonamento de privilégios.
 - Entrada não validada -> Os programas geralmente exigem entrada de dados, mas esses dados recebidos podem ter conteúdo malicioso, projetado para forçar o programa a se comportar de maneira não intencional.
 Por exemplo, considere um programa que recebe uma imagem para processamento. Um usuário mal-intencionado pode criar um arquivo de imagem com dimensões de imagem inválidas. As dimensões criadas de forma mal-intencionada podem forçar o programa a alocar buffers de tamanhos incorretos e inesperados.
@@ -86,3 +88,11 @@ Por exemplo, considere um programa que recebe uma imagem para processamento. Um 
 - Problemas de controle de acesso -> O controle de acesso é o processo de controlar quem faz o quê e abrange desde o gerenciamento do acesso físico ao equipamento até ditar quem tem acesso a um recurso, como um arquivo, e o que pode ser feito com ele, como ler ou alterar o arquivo. Muitas vulnerabilidades de segurança são criadas com o uso indevido de controles de acesso.
 
 Quase todos os controles de acesso e as práticas de segurança poderão ser superados se o invasor tiver acesso físico ao equipamento de destino. Por exemplo, não importa as configurações de permissão em um arquivo, um hacker pode ignorar o sistema operacional e ler os dados diretamente do disco. Para proteger a máquina e os dados que ela contém, o acesso físico deve ser restrito e as técnicas de criptografia devem ser usadas para proteger dados contra roubo ou danos.
+
+## Como proteger a rede
+
+- Você deve usar pelo menos um tipo de firewall (firewall de software ou de hardware em um roteador) para proteger seu dispositivo contra acesso não autorizado. O firewall deve estar ativado e atualizado constantemente para impedir que hackers acessem seus dados pessoais ou da empresa.
+- Você só deve baixar software de sites confiáveis. No entanto, você sempre deve usar um software antivírus para fornecer outra camada de proteção. Este software, que geralmente inclui antispyware, foi projetado para verificar a presença de vírus em seu computador e nos e-mails recebidos e excluí-los. Manter seu software atualizado protegerá seu computador de qualquer novo software malicioso que surgir.
+- Você deve definir as configurações de segurança em seu computador e navegador para nível médio ou superior. Você também deve atualizar regularmente o sistema operacional do seu computador, incluindo o navegador da web, e baixar e instalar os patches de software e atualizações de segurança mais recentes dos fornecedores.
+- Todos os seus dispositivos de computação, incluindo PCs, laptops, tablets e smartphones, devem ser protegidos por senha para evitar acesso não autorizado. Qualquer informação armazenada, especialmente dados sensíveis ou confidenciais, deve ser criptografada. Você só deve armazenar as informações necessárias em seu dispositivo móvel, para o caso de ser roubado ou perdido.
+  
