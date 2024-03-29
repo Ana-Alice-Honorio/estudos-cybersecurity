@@ -24,3 +24,21 @@ O Microsoft Azure oferece o Serviço do Azure Machine Learning – uma plataform
 - Visualização de métricas de dados: analisar e otimizar seus experimentos com visualização.
 - Notebooks: escreva e execute seu próprio código em servidores gerenciados do Jupyter Notebook que estão diretamente integrados ao estúdio.
   
+## Serviços de Pesquisa Visual Computacional no Microsoft Azure
+
+Você pode utilizar o Visão de IA do Azure da Microsoft para desenvolver soluções de visão computacional. Os recursos do serviço estão disponíveis para uso e teste no Estúdio do Visão do Azure e em outras linguagens de programação. Alguns recursos do Visão de IA do Azure incluem:
+
+- Análise de imagens: funcionalidades para analisar imagens e vídeos e extrair descrições, marcas, objetos e textos.
+- Detecção Facial: funcionalidades que permitem que você crie soluções de detecção e reconhecimento facial.
+- Reconhecimento óptico de caracteres (OCR): funcionalidades para extrair texto impresso ou manuscrito de imagens, permitindo o acesso a uma versão digital do texto verificado.
+
+## Noções básicas sobre o processamento de idioma natural
+
+O NLP (processamento de idioma natural) é a área da IA que lida com a criação de software que entende o idioma escrito e falado.
+O NLP permite que você crie um software que pode:
+
+- Analisar e interpretar o texto em documentos, mensagens de email e outras fontes.
+- Interpretar o idioma falado e sintetizar as respostas de fala.
+- Traduzir automaticamente frases faladas ou escritas entre idiomas.
+- Interpretar comandos e determinar as ações apropriadas.
+  
