@@ -11,3 +11,16 @@ Em termos simples, IA é um software que imita comportamentos e funcionalidades 
 - Mineração de conhecimento: funcionalidades da IA para extrair informações de grandes volumes de dados, muitas vezes não estruturados, para criar um repositório de conhecimento pesquisável.
 - IA Generativa: funcionalidades da IA que criam conteúdo original em uma variedade de formatos, incluindo linguagem natural, imagem, código e muito mais.
   
+## Como o machine learning funciona
+
+A resposta é: com base nos dados.
+
+## Machine learning no Microsoft Azure
+
+O Microsoft Azure oferece o Serviço do Azure Machine Learning – uma plataforma baseada em nuvem para criar, gerenciar e publicar modelos de machine learning. O Estúdio do Azure Machine Learning oferece várias experiências de criação, como:
+
+- Machine learning automatizado: esse recurso permite que quem não é especialista crie rapidamente um modelo de machine learning eficaz com base nos dados.
+- Designer do Azure Machine Learning: uma interface gráfica que permite o desenvolvimento sem código de soluções de machine learning.
+- Visualização de métricas de dados: analisar e otimizar seus experimentos com visualização.
+- Notebooks: escreva e execute seu próprio código em servidores gerenciados do Jupyter Notebook que estão diretamente integrados ao estúdio.
+  
