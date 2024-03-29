@@ -42,3 +42,10 @@ O NLP permite que você crie um software que pode:
 - Traduzir automaticamente frases faladas ou escritas entre idiomas.
 - Interpretar comandos e determinar as ações apropriadas.
   
+## Inteligência de informação de documentos no Microsoft Azure
+
+Você pode usar a IA do Azure para Informação de Documentos da Microsoft para criar soluções que gerenciam e aceleram a coleta de dados de documentos verificados. Os recursos da IA do Azure para Informação de Documentos ajudam a automatizar o processamento de documentos em aplicativos e fluxos de trabalho, aprimorar estratégias orientadas por dados e enriquecer recursos de pesquisa de documentos.
+
+## Mineração de conhecimento
+
+A mineração de conhecimento é o termo usado para descrever soluções que envolvem a extração de informações de grandes volumes de dados geralmente não estruturados, com o objetivo de criar um repositório de conhecimento pesquisável.
