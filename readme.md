@@ -8,3 +8,4 @@
 - Iniciando com o curso ministrado pela [Womcy](https://womcytrainingcenter.org/)
 - Az-900 pela [Microsoft](https://www.microsoft.com/pt-br)
 - Introdução a Cybersegurança com a [Cisco](https://skillsforall.com/)
+- Desafio de habilidades de IA: Conceitos Básicos de IA do Azure com a [Microsoft](https://learn.microsoft.com/pt-br/training/paths/get-started-with-artificial-intelligence-on-azure/)
