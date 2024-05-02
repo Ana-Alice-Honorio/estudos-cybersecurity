@@ -9,6 +9,10 @@ O modelo de responsabilidade compartilhada identifica quais tarefas de seguranç
   
 > Para todos os tipos de implantação de nuvem você, o cliente de nuvem, possui seus dados e suas identidades. Você é responsável por proteger a segurança de seus dados e identidades e recursos locais, incluindo dispositivos móveis, computadores, impressoras e muito mais.
 
-## O benefício do modelo de responsabilidade compartilhada é que as responsabilidades das organizações são claras, assim como as do provedor de nuvem.
+## O benefício do modelo de responsabilidade compartilhada é que as responsabilidades das organizações são claras, assim como as do provedor de nuvem
 
 ![giphy aperto de mãos](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWk2M2VyeHRqaGNtbzhubGRpN3pmcHJrcnd4N2FsdWhtZXB4ZWg1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UWmezCkFtCE4myL43g/giphy.gif)
+
+## Descrever a defesa em profundidade
+
+Uma estratégia de defesa em profundidade usa uma série de mecanismos para reduzir o avanço de um ataque. Todos os diferentes mecanismos (tecnologias, processos e treinamento) são elementos de uma estratégia de segurança cibernética, cujos objetivos incluem garantir a confidencialidade, integridade e disponibilidade; muitas vezes referidas como CIA (confidentiality, integrity e availability).
