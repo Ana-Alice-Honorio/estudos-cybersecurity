@@ -131,3 +131,6 @@ As métricas descritas acima são comumente usadas para avaliar um modelo de reg
 - Seleção de algoritmo (exploramos a regressão linear no exemplo anterior, mas existem muitos outros algoritmos de regressão)
 - Parâmetros de algoritmo (configurações numéricas para controlar o comportamento do algoritmo, mais precisamente chamados de hiperparâmetros para diferenciá-los dos parâmetros x e y ).
   
+## A Classificação binária
+
+A classificação, assim como a regressão, é uma técnica **supervisionada** de aprendizado de máquina; e, portanto, segue o mesmo processo iterativo de treinamento, validação e avaliação de modelos. Em vez de calcular valores numéricos como um modelo de regressão, os algoritmos usados para treinar modelos de classificação calculam valores de **probabilidade** para atribuição de classe e as métricas de avaliação usadas para avaliar o desempenho do modelo comparam as classes previstas com as classes reais.
